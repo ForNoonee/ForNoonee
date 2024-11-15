@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ForNoonee
-- 👀 I’m interested in C# and C++;
-- 🌱 I’m currently learning WPF ,QT and halcon;
-- 💞️ I’m looking to collaborate on QT and halcon development
-- 📫 How to reach me fanfangbo2008@qq.com
+- 👀 I’m interested in C++;
+- 🌱 I’m currently learning QT , opencv;
+- 💞️ I’m looking to collaborate on QT and opencv development
+
 
 <!---
 ForNoonee/ForNoonee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
